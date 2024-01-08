@@ -1,2 +1,8 @@
-# practicaTema3GilSoriano
-Práctica del tema 3 de 1ºDAM. Realizada por Gil Vacas y Jose Ángel Soriano
+# Práctica del tema 3 de 1ºDAM
+
+Autores:
+- Gil Vacas
+- José Ángel Soriano
+
+# Manual de Usuario - FernanPaaq versión 1.0
+
